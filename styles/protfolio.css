@@ -189,6 +189,7 @@ main section{
      display: flex;
     justify-content: space-between;
     gap: 115px;
+    height: 600px;
     
 
     /* padding: 200px 115px 200px 0; */
@@ -199,6 +200,10 @@ main section{
     font-weight: bold;
     font-size: 90px;
     padding: 200px 115px 200px 0;   
+}
+.forum-colum-input{
+    font-size: 18px;
+    font-weight: 200px;
 }
 .action-form{
     margin: 71px 0px 71px 115px;
@@ -236,10 +241,12 @@ main section{
 .footer-bottom-container{
     display: flex;
     justify-content: space-between;
+    padding-bottom: 40px;
 }
 .footer-main{
     padding: 100px 455px 100px 455px;
     background-color: #FFFFFF;
+    height: 200px;
 }
 .footer-para{
     text-align: center;
