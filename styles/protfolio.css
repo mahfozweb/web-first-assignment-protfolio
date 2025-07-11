@@ -68,6 +68,12 @@ div button:hover{
     background-color: crimson ;
 }
 /* main function style */
+.extra-background {
+    background-color: azure;
+    border-radius: 20px;
+    padding: 40px;
+    margin: 15px 30px;
+}
 .parent{
     display: flex;
     justify-content: space-between;
